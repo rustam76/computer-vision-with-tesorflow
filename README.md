@@ -1,3 +1,6 @@
+##### TensorFlow: Pengenalan dan Implementasi pada Dataset Cats vs Dogs
+
+
 ### Apa itu TensorFlow?
 
 TensorFlow adalah framework open-source yang dikembangkan oleh Google untuk mendukung kebutuhan machine learning dan deep learning. Framework ini sangat fleksibel, mendukung berbagai jenis arsitektur model, dan dapat digunakan untuk tugas-tugas seperti klasifikasi, prediksi, hingga pengenalan gambar dan suara. TensorFlow sering digunakan dalam implementasi Computer Vision karena memiliki alat yang efisien untuk memproses data visual dan membangun model berbasis AI secara scalable
